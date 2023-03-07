@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyal Soni</h1>
+<img src="https://i.imgur.com/drFdRem.png" alt="Hi, I'm Priyal">
 <h3 align="center">Backend Developer transitioning to Full-stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="priyalsoni15" /> </p>
