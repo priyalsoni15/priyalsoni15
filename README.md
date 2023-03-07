@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/drFdRem.png" alt="Hi, I'm Priyal">
+<center><img src="https://i.imgur.com/drFdRem.png" alt="Hi, I'm Priyal" height="></center>
 <h3 align="center">Backend Developer transitioning to Full-stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="priyalsoni15" /> </p>
