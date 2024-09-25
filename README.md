@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="priyalsoni15" /> </p>
 
-- 🔭 I’m currently working on [Debitable](https://github.com/Debitable)
+- 🔭 Building [ResilientDB Explorer]((https://explorer.resilientdb.com/))
 
-- 🌱 I’m currently learning **React, Flask**
+- 🌱 Learning **Vue, Flask**
 
 - 📝 I regularly write articles on [https://medium.com/@priyal15.soni](https://medium.com/@priyal15.soni)
 
