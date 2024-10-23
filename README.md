@@ -1,5 +1,3 @@
-[![Priyal Soni]](https://github.com/priyalsoni15)
-
 ## "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!)](https://git.io/typing-svg)
