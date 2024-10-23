@@ -1,4 +1,4 @@
-[![Priyal Soni](https://imgur.com/QYdzJSz)](https://github.com/priyalsoni15)
+[![Priyal Soni](https://imgur.com/a/random-LlriYiO)](https://github.com/priyalsoni15)
 
 ## "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt 🚀
 
