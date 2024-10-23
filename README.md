@@ -1,29 +1,78 @@
-<h1 align="center">Hi 👋, I'm Priyal Soni</h1>
-<h3 align="center">Currently, pursuing MS CS @ University of California, Davis, interested in Software Engineering and Security</h3>
+[![Priyal Soni](https://imgur.com/QYdzJSz)](https://github.com/priyalsoni15)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="priyalsoni15" /> </p>
+## "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyalsoni15" alt="priyalsoni15" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!)](https://git.io/typing-svg)
+I'm Priyal Soni. I'm a Master's in Computer Science student at the University of California, Davis aiming at enhancing subject knowledge by researching cutting-edge methodologies and developing scalable applications to solve real-world problems. As a Software Engineer and Researcher, I have experience with Software Engineering, Decentralized databases, and Security concepts. Proficient in developing applications using stacks such as .NET, Node.js, and frameworks like Flask and Vue.js. I'm an open-source aficionado and relish collaborating on enthralling projects. Feel free to connect with me here:
 
-- 🔭 I’m currently working on [ResilientDB Explorer](https://explorer.resilientdb.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-priyal--soni--150-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyal-soni-150/)](https://www.linkedin.com/in/priyal-soni-150/)
+[![Instagram Badge](https://img.shields.io/badge/-priyalsoni15-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/priyalsoni15/)](https://instagram.com/priyalsoni15)
+[![Medium Badge](https://img.shields.io/badge/-@priyal15.soni-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@priyal15.soni)](https://medium.com/@priyal15.soni)
+[![Gmail Badge](https://img.shields.io/badge/-pdsoni@ucdavis.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdsoni@ucdavis.edu)](mailto:pdsoni@ucdavis.edu)
 
-- 🌱 I’m currently learning **Vue.JS, Threat Modeling, Defensive Security**
+### 🤵 < About Me />
+- 🤔 I use daily `.py`, `.js`, `.cs`, `.cpp`
+- 🌱 I’m currently exploring cryptography
+- 💬 Talk to me about software engineering, security, and open-source projects
+- 😄 Pronouns: He/Him
+- 📝 Graduate Student Researcher at [UC Davis DataLab](https://datalab.ucdavis.edu/)
+- ⚡ Fun fact: I am an INFJ
+- 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=priyalsoni15">
+- 🗰  Mood Meter: <img src="https://img.shields.io/badge/-🎃%20Mood:%20Happy-black?">
 
-- 📝 I regularly write articles on [https://medium.com/@priyal15.soni](https://medium.com/@priyal15.soni)
+## 🎵 < Spotify />
 
-- 📫 How to reach me **pdsoni@ucdavis.edu**
+<table width=100%>
+  <tr>
+    <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default" height=400 width=100%></td>
+    <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical" width=100% height=390 alt="2"></td>
+   </tr>
+</table>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/priyal-soni-150/](https://www.linkedin.com/in/priyal-soni-150/)
-
-- ⚡ Fun fact **I'm an INFJ**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyal-soni-150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyal-soni-150/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/priyalsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priyalsoni" height="30" width="40" /></a>
+## ⚡ < Technologies />
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+<img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp">
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
+<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
+<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql">
+<br>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql">
+<img src="https://img.shields.io/badge/-ElectronJS-black?style=flat-square&logo=electron">
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 📈 < Statistics />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=priyalsoni15&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyalsoni15&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=priyalsoni15&theme=dark&show_icons=true&include_all_commits=true&count_private=true" width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyalsoni15&theme=dark&layout=compact&hide=Jupyter%20Notebook" height=190 align="center" alt="2"></td>
+   </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyalsoni15&show_icons=true&locale=en&layout=compact" alt="priyalsoni15" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyalsoni15&theme=solarized_dark" width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyalsoni15&bg_color=073642&color=859900&line=006400&point=35aea1&area=true&hide_border=true" width=100% height=auto alt="2"></td>
+  </td>
+  </tr>
+</table>
