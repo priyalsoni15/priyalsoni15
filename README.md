@@ -24,7 +24,6 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
 
 <table width=100%>
   <tr>
-    <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default" height=400 width=100%></td>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical" width=100% height=390 alt="2"></td>
    </tr>
 </table>
@@ -71,8 +70,4 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyalsoni15&theme=solarized_dark" width=100% height=auto alt="1"></td>
    </tr>
-   <tr>
-      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyalsoni15&bg_color=073642&color=859900&line=006400&point=35aea1&area=true&hide_border=true" width=100% height=auto alt="2"></td>
-  </td>
-  </tr>
 </table>
