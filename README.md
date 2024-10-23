@@ -41,8 +41,6 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
 <img src="https://img.shields.io/badge/-ElectronJS-black?style=flat-square&logo=electron">
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
 <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 </p>
 
 ## 📈 < Statistics />
