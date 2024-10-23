@@ -20,14 +20,6 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=priyalsoni15">
 - 🗰  Mood Meter: <img src="https://img.shields.io/badge/-🎃%20Mood:%20Happy-black?">
 
-## 🎵 < Spotify />
-
-<table width=100%>
-  <tr>
-    <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical" width=100% height=390 alt="2"></td>
-   </tr>
-</table>
-
 ## ⚡ < Technologies />
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
