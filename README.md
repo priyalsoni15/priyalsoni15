@@ -1,4 +1,4 @@
-## "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt 🚀
+## “The highest education is that which does not merely give us information but makes our life in harmony with all existence.” - Rabindranath Tagore 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!)](https://git.io/typing-svg)
 I'm Priyal Soni. I'm a Master's in Computer Science student at the University of California, Davis aiming at enhancing subject knowledge by researching cutting-edge methodologies and developing scalable applications to solve real-world problems. As a Software Engineer and Researcher, I have experience with Software Engineering, Decentralized databases, and Security concepts. Proficient in developing applications using stacks such as .NET, Node.js, and frameworks like Flask and Vue.js. I'm an open-source aficionado and relish collaborating on enthralling projects. Feel free to connect with me here:
