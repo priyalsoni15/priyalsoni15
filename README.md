@@ -11,7 +11,7 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
 ### 🤵 < About Me />
 - 🤔 I use daily `.py`, `.js`, `.cs`, `.cpp`
 - 🌱 I’m currently exploring the intersection of security and AI
-- 💬 Talk to me about software engineering, security, and open-source projects
+- 💬 Talk to me about full stack development, security, and open-source projects
 - 😄 Pronouns: She/Her
 - 📝 Graduate Student Researcher at [UC Davis DataLab](https://datalab.ucdavis.edu/)
 - ⚡ Fun fact: I am an INFJ
