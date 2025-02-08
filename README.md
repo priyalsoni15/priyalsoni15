@@ -43,8 +43,6 @@ I'm Priyal Soni. I'm a Master's in Computer Science student at the University of
 
 ## 📈 < Statistics />
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyalsoni15&theme=darkhub">
-<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyalsoni15&theme=merko">
 </p>
 <table>
